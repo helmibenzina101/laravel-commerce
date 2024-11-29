@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-
 requests">
 
-<link href="{{ secure_asset('frontend/assets/index-CZpCW9iA.css') }}"
+<link href="{{ secure_asset('frontend/assets/index-DOEHBIKa.css') }}"
 rel="stylesheet">
 </head>
 <body>
